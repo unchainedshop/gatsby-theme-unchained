@@ -2,6 +2,10 @@ import React from 'react';
 
 const UnchainedIcon = () => (
   <svg
+    style={{
+      display: 'block'
+    }}
+    height="32px"
     className="logo mr-3"
     viewBox="0 0 162 43"
     xmlns="http://www.w3.org/2000/svg"
@@ -15,13 +19,5 @@ const UnchainedIcon = () => (
 );
 
 export default function Logo() {
-  return (
-    <UnchainedIcon
-      style={{
-        display: 'block',
-        width: 64,
-        height: 'auto'
-      }}
-    />
-  );
+  return <UnchainedIcon />;
 }

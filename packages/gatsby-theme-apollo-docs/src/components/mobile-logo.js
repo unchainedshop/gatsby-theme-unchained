@@ -1,12 +1,7 @@
 import React from 'react';
 
-export const MobileLogo = () => (
-  <svg
-    height="680"
-    viewBox="0 0 620 680"
-    width="620"
-    xmlns="http://www.w3.org/2000/svg"
-  >
+export const MobileLogo = ({width}) => (
+  <svg viewBox="0 0 620 680" width={width} xmlns="http://www.w3.org/2000/svg">
     <g fill="none">
       <path
         d="m177.1 248.2c-9.422226-17.65486-9.422226-38.84514 0-56.5l-47.1 28.3z"
