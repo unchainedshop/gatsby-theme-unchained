@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-theme-apollo-core",
+  "name": "@unchainedshop/gatsby-theme-apollo-core",
   "version": "3.0.18",
   "main": "index.js",
   "description": "A theme for bootstrapping Gatsby websites at Apollo",
@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/apollographql/gatsby-theme-apollo.git",
+    "url": "https://github.com/unchainedshop/gatsby-theme-unchained.git",
     "directory": "packages/gatsby-theme-apollo-core"
   },
   "dependencies": {

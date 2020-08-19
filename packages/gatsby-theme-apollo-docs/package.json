@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-theme-apollo-docs",
+  "name": "@unchainedshop/gatsby-theme-apollo-docs",
   "version": "4.3.8",
   "main": "index.js",
   "description": "A Gatsby theme for building documentation websites",
@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/apollographql/gatsby-theme-apollo.git",
+    "url": "https://github.com/unchainedshop/gatsby-theme-unchained.git",
     "directory": "packages/gatsby-theme-apollo-docs"
   },
   "keywords": [
@@ -31,7 +31,7 @@
     "gatsby-remark-rewrite-relative-links": "^1.0.8",
     "gatsby-source-filesystem": "^2.0.29",
     "gatsby-source-git": "^1.0.1",
-    "gatsby-theme-apollo-core": "^3.0.18",
+    "gatsby-theme-apollo-core": "npm:@unchainedshop/gatsby-theme-apollo-core@latest",
     "gatsby-transformer-remark": "^2.6.30",
     "js-yaml": "^3.13.1",
     "prismjs": "^1.15.0",
