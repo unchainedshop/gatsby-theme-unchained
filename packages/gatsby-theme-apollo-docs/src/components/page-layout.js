@@ -205,7 +205,7 @@ export default function PageLayout(props) {
               <ButtonWrapper ref={buttonRef}>
                 <StyledButton
                   feel="flat"
-                  color={colors.primary}
+                  color={colors.highlight}
                   size="small"
                   onClick={openMenu}
                   style={{display: 'flex'}}
