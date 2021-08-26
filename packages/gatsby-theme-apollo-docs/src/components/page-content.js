@@ -75,7 +75,7 @@ const Aside = styled.aside({
     display: 'none'
   },
   [breakpoints.md]: {
-    display: 'block'
+    display: 'none'
   },
   [breakpoints.sm]: {
     display: 'none'
@@ -206,11 +206,7 @@ export default function PageContent(props) {
           />
         )}
         {editLink}
-        {props.spectrumUrl && (
-          <AsideLink href={props.spectrumUrl}>
-            <SpectrumLogo /> Discuss on Spectrum
-          </AsideLink>
-        )}
+        
         {props.graphManagerUrl && (
           <AsideLink href={props.graphManagerUrl}>
             <IconSchema /> Demo Apollo Studio

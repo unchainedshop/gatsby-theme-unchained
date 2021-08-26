@@ -1,9 +1,6 @@
-import React from "react";
-
-export const MobileLogo = ({ width = 76 }) => (
-  <svg
-    width={width}
-    height={width}
+<svg
+    width="76px"
+    height="76px"
     viewBox="0 0 76 76"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
@@ -80,4 +77,3 @@ export const MobileLogo = ({ width = 76 }) => (
       </clipPath>
     </defs>
   </svg>
-);
