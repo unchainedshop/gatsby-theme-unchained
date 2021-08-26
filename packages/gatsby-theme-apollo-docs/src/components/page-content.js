@@ -75,7 +75,7 @@ const Aside = styled.aside({
     display: 'none'
   },
   [breakpoints.md]: {
-    display: 'block'
+    display: 'none'
   },
   [breakpoints.sm]: {
     display: 'none'
