@@ -31,7 +31,7 @@
     "gatsby-remark-rewrite-relative-links": "^1.0.8",
     "gatsby-source-filesystem": "^2.3.24",
     "gatsby-source-git": "^1.1.0",
-    "gatsby-theme-apollo-core": "npm:@unchainedshop/gatsby-theme-apollo-core@^3.0.24",
+    "gatsby-theme-apollo-core": "npm:@unchainedshop/gatsby-theme-apollo-core@^3.0.25",
     "gatsby-transformer-remark": "^2.8.28",
     "js-yaml": "^3.14.0",
     "prismjs": "^1.15.0",
