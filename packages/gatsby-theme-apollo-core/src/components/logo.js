@@ -5,7 +5,7 @@ const UnchainedIcon = () => (
     style={{
       display: "block",
     }}
-    height="32px"
+    height="76px"
     viewBox="0 0 178 92"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
